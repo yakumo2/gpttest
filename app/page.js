@@ -18,6 +18,7 @@ export default function Home() {
     >
       <span>hello world</span>
       <span>当前时间（UTC+8）：{currentTime}</span>
+      hello world
     </main>
   );
 }
